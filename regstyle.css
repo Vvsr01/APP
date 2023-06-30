@@ -1,0 +1,40 @@
+
+h1{
+  text-align: center;
+  background-color: purple;
+  color: ghostwhite;
+}
+a{
+  text-decoration: none;
+  color: floralwhite;
+}
+.left{
+  background-color: cadetblue;
+  border: 5px solid;
+  padding-bottom: 30px;
+  width: 175px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px hotpink;
+  float: left;
+  color: white;
+}
+.right{
+  background-color: #07374c;
+  border: 5px solid;
+  padding-bottom: 30px;
+  width: 175px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px hotpink;
+  float: right;
+  color: white;
+}
+#img1{
+  border-radius: 25px;
+  padding: 10px;
+}
+#img2{
+  border-radius: 25px;
+  padding: 10px;
+}
