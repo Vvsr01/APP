@@ -1,5 +1,6 @@
 *{
   box-sizing: border-box;
+  margin: 0;
 }
 body{
   margin: 0;
@@ -23,6 +24,7 @@ body{
   background-color: #07374c;
   border: 2px solid;
   padding: 10;
+  width: 50%;
   height: auto;
   border-radius: 10px;
   box-shadow: 5px 5px 15px;
